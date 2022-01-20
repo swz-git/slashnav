@@ -1,0 +1,5 @@
+┌─      SLASHNAV      ─┐
+│   ctrl + c to exit   │
+│↑ ↓ ← → to move around│
+│    type to search    │
+└──────────────────────┘
